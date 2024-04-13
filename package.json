@@ -2,8 +2,9 @@
   "name": "resourcecopier",
   "displayName": "ResourceCopier",
   "description": "Copies the resource path in a formatted structure from localization files.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "crisP4gu498",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -22,7 +23,7 @@
         {
           "when": "editorTextFocus",
           "command": "extension.copyResourcePath",
-          "group": "navigation"
+          "group": "9_cutcopypaste"
         }
       ]
     }
