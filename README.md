@@ -26,10 +26,6 @@ Puedes instalar ResourceCopier directamente desde el Marketplace de Visual Studi
 4. Click en "Instalar desde VSIX".
 3. Seleccionar archivo ".vsxi".
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor clona el repositorio y somete tus pull requests. Asegúrate de incluir pruebas y documentar tus cambios.
-
 ## Como compilar y generar vsix
 
 ### Instalar VSCE
